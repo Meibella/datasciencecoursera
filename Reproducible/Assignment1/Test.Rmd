@@ -1,0 +1,18 @@
+---
+title: "AssignmentI"
+author: "Meikang Wu"
+date: "July 15, 2015"
+output: html_document
+---
+
+First Load the activity data
+```{r, echo=TRUE}
+rawdata <- read.csv("./Data/activity.csv")
+```
+
+Add a calculated coulumn DateTime to represent the interval
+
+```{r, echo=TRUE}
+
+```
+
